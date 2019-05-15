@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link](https://github.com/mc-santiago/discover-netlify.git)
+* Link to the website deployed on Netlify : [Link](https://gracious-curran-f30e11.netlify.com/)
